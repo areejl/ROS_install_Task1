@@ -8,7 +8,7 @@
 3. create the virtual machine
 see the [ubuntu system requirements](https://help.ubuntu.com/community/Installation/SystemRequirements)
 [ubuntu mate system requirements](https://ubuntu-mate.org/about/requirements)
-
+![ubuntu VM](VM.PNG)
  **Install ROS melodic**
 4. Configure your [Ubuntu repositories](https://help.ubuntu.com/community/Repositories/Ubuntu) <br />
 5. Setup your sources.list <br />
